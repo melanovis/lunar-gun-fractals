@@ -10,3 +10,15 @@ By ejecting off some payload (of negligible mass compared to the two primary bod
 
 ---
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/757acd42-6ad3-48b4-9364-0b4715de10f3" width="100%" controls></video>
+</p>
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/0b6aaef0-ce54-4cf2-9820-7b04c07ac518" width="100%" controls></video>
+</p>
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/024d7419-1afa-46a1-92f9-cc326b518f76" width="100%" controls></video>
+</p>
+
